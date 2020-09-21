@@ -12,9 +12,9 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 
 
 setup(
-    name='pypkgtemp',
-    version='1.2.0',
-    description='A python package template',
+    name='CryptoMath',
+    version='0.0.1',
+    description='Mathematics for cryptography',
     long_description=long_description,
     long_description_content_type="text/markdown",
     url='https://github.com/k-sunako/CryptoMath',
