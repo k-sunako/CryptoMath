@@ -17,9 +17,9 @@ setup(
     description='A python package template',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://gitlab.com/costrouc/knoxpy-sqlite-pypi-readthedocs',
-    author='Chris Ostrouchov',
-    author_email='chris.ostrouchov+pypkgtemp@gmail.com',
+    url='https://github.com/k-sunako/CryptoMath',
+    author='Kazumasa Sunako',
+    author_email='dd.kazumasa@gmail.com',
     license="MIT",
     classifiers=[
         'Development Status :: 3 - Alpha',
